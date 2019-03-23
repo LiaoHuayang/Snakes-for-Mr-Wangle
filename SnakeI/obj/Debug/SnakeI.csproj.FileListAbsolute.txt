@@ -1,0 +1,10 @@
+F:\C#\SnakeI\SnakeI\bin\Debug\SnakeI.exe.config
+F:\C#\SnakeI\SnakeI\bin\Debug\SnakeI.exe
+F:\C#\SnakeI\SnakeI\bin\Debug\SnakeI.pdb
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.Properties.Resources.resources
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.csproj.GenerateResource.Cache
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.exe
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.pdb
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.MainForm.resources
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.csprojAssemblyReference.cache
+F:\C#\SnakeI\SnakeI\obj\Debug\SnakeI.csproj.CoreCompileInputs.cache
